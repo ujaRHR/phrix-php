@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://docs.rhraju.com/phrix" target="_blank">
+  <a href="https://docs.rhraju.com/phrix-php" target="_blank">
     <img src="https://rhraju.com/assets/img/phrix_logo.png" width="80%" alt="Phrix Logo"/>
   </a>
   <h1>PhriX (A Lightweight PHP Micro Framework)</h1>
