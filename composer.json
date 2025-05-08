@@ -1,0 +1,20 @@
+{
+    "name": "ujarhr/phrix-php",
+    "description": "Phrix is a fast, minimal, and no-BS PHP micro-framework designed for small-scale projects, prototypes, or devs who want full control without the bloat of full-stack frameworks.",
+    "license": "MIT",
+    "version": "1.0.0",
+    "minimum-stability": "stable",
+    "authors": [
+        {
+            "name": "Reajul Hasan Raju",
+            "email": "hello@rhraju.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Core\\": "core/",
+            "App\\": "app/"
+        }
+    },
+    "require": {}
+}
