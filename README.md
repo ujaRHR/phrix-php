@@ -6,7 +6,7 @@
   <span>PhriX is a simple, no-bloat PHP micro-framework built for small-to-medium web applications. It offers essential tools like routing, middleware, templating, and basic request/response handling -- nothing more, nothing less.</span>
 </div>
 
-### 🛠️ Features (v1.0)
+### 🛠️ Features
 - Clean, chainable routing (`$route->get('/', 'welcome');`)
 - Middleware support (`$route->get(...)->middleware('auth');`)
 - Simple templating (`@include`, `@asset`, `@title`)
@@ -18,7 +18,7 @@
 - No unnecessary magic
  
 ### 🛣️ Why PhriX?
-Most PHP frameworks try to be everything. Phrix focuses on only what's essential:
+Most PHP frameworks try to be everything. Phrix focuses on only what's essential for early-stage projects:
 - Simplicity over features
 - Flat structure (everything is where you expect it)
 - Readable source (you can skim the whole core in minutes)
@@ -32,7 +32,7 @@ Clone the repository and start:
 3. `composer dump-autoload`
 4. `php -S localhost:8000 -t public` 
 
-Start editing your routes in `config/routes.php`, templates in `app/Views`, and partials in `app/Partials`. You can find complete documentation at:  [**PhriX Docs**](https://docs.rhraju.com/phrix-php)
+> Start editing your routes in `config/routes.php`, templates in `app/Views`, and partials in `app/Partials`. You can find complete documentation at:  [**PhriX Docs**](https://docs.rhraju.com/phrix-php)
 
 ### 📋 To-Do
 - [x] Basic routing (GET/POST)
