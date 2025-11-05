@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://docs.rhraju.com/phrix-php" target="_blank">
-    <img src="https://rhraju.com/assets/img/phrix_logo.png" width="80%" alt="Phrix Logo"/>
+    <img src="https://raw.githubusercontent.com/ujaRHR/phrix-php/refs/heads/main/public/assets/images/phrix_logo.png" width="50%" alt="Phrix Logo"/>
   </a>
   <h1>PhriX (A Lightweight PHP Micro Framework)</h1>
   <span>PhriX is a simple, no-bloat PHP micro-framework built for small-to-medium web applications. It offers essential tools like routing, middleware, templating, and basic request/response handling -- nothing more, nothing less.</span>
